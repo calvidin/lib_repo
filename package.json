@@ -1,0 +1,24 @@
+{
+  "name": "lib_repo",
+  "version": "1.0.0",
+  "description": "sub_repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvidin/lib_repo.git"
+  },
+  "author": "avtaniket",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calvidin/lib_repo/issues"
+  },
+  "homepage": "https://github.com/calvidin/lib_repo#readme",
+  "dependencies": {
+    "lodash": "4.17.21",
+    "moment": "2.29.4",
+    "moongose": "1.0.0"
+  }
+}
